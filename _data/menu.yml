@@ -1,0 +1,46 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: korea
+      - title: backend engineer
+      - title: github
+        url: https://github.com/surgeryxx
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: java
+    post_list:
+      category: java
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: java-archive.html
+
+  - title: database
+    post_list:
+      category: database
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: database-archive.html
+
+  # - title: rss
+  #   url: feed.xml
+  
+  # - title: another list
+  #   entries:
+  #     - title: with subitems
+  #       entries:
+  #         - title: with subsubitems
+  #         - title: example page
+  #           url: about
+
+  # - title: PRO TIP
+  #   entries:
+  #     - title: to edit this menu, edit _data/menu.yml file
