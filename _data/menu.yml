@@ -2,28 +2,29 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: Info
     entries:
-      - title: korea
-      - title: backend engineer
-      - title: github
+      - title: 안녕하세요?
+      - title: Korea
+      - title: Backend Engineer
+      - title: Github
         url: https://github.com/surgeryxx
 
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+  # - title: Posts
+  #   post_list:
+  #     limit: 5
+  #     show_more: true
+  #     show_more_text: See archive...
+  #     show_more_url: archive.html
 
-  - title: java
+  - title: Java
     post_list:
       category: java
       show_more: true
       show_more_text: See more posts...
       show_more_url: java-archive.html
 
-  - title: database
+  - title: Database
     post_list:
       category: database
       show_more: true
