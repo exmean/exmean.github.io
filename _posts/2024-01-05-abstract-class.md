@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Java Abstract Class
 category: java
 ---
 

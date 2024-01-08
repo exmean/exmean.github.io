@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Java Stream API
 category: java
 ---
 
