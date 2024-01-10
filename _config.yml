@@ -27,4 +27,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-futrue: true
+future: true
