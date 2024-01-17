@@ -24,6 +24,13 @@ entries:
       show_more_text: See more posts...
       show_more_url: java-archive.html
 
+  - title: Spring
+    post_list:
+      category: spring
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: spring-archive.html
+
   - title: Database
     post_list:
       category: database

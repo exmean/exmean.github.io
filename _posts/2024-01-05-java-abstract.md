@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Abstract Class
+title: 추상 클래스는 언제 사용할 수 있을까?
 category: java
 ---
 

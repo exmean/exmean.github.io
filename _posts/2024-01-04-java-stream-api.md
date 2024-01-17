@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Stream API
+title: Stream API 활용 예제
 category: java
 ---
 

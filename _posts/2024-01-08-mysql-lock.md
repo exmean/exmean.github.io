@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL Lock
+title: 락의 개념과 종류
 category: database
 ---
 

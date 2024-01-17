@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Interface
+title: 인터페이스의 특징
 category: java
 ---
 

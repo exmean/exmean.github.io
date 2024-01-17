@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MySQL Transaction
+title: 트랜잭션과 격리수준
 category: database
 ---
 
