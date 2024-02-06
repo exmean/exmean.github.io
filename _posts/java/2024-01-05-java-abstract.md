@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 추상 클래스는 언제 사용할 수 있을까?
-category: java
+category: Java
+permalink: /java/2
 ---
 
 추상 클래스는 언제 사용해야 할까?   

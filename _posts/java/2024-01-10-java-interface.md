@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 인터페이스의 특징
-category: java
+category: Java
+permalink: /java/3
 ---
 
 - Java Interface는 어느 경우에 활용할 수 있을까?
