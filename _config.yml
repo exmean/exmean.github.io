@@ -76,6 +76,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
+# <a target="_blank" href="https://icons8.com/icon/119894/pixel-cat">Pixel Cat</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 favicon: /assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
