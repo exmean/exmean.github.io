@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://exmean.github.io/sitemap.xml
