@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MySQL의 트랜잭션과 격리수준
-category: Database
+category: MySQL
 permalink: /mysql/1
 ---
 
